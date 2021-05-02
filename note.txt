@@ -1,2 +1,3 @@
 I just initializing git by type git init
 Trying to use git branch.
+I did it wrong, branching then commit, not vice versa.
