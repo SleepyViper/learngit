@@ -1,1 +1,2 @@
 I just initializing git by type git init
+Trying to use git branch.
