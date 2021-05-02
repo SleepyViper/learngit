@@ -1,0 +1,2 @@
+I just create another file to be tracked.
+I just unstage this file by using git reset [-filename].
